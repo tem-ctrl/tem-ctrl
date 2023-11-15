@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gilbert Temgoua
-- 🌱 I’m a frontend (upcoming full stack) web developer.
+- 🌱 I’m a web developer.
 - 👀 I'm currently looking for a position of junior web developer be it full or part time, ideally fully remote.
 - 📫 Reach out to me <br>
  [<img src="https://cdn0.iconfinder.com/data/icons/social-15/200/linkedin-512.png" alt="LinkedIn" width = "30" />](https://www.linkedin.com/in/temgoua)
