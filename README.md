@@ -7,7 +7,7 @@
     <p style="color:initial;border-top:1px;">
         A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
     </p>
-    <img src="https://skillicons.dev/icons?i=js,ts,html5,css3,react,nextjs,php,laravel,wordpress,graphql,tailwind,mysql,docker,git,github&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,php,laravel,wordpress,graphql,tailwind,mysql,docker,git,github&theme=dark" alt="Tech Stack" />
 </div>
 <div style="display:flex;gap:10px;align-items:center;">
     <!-- Profile views count -->
