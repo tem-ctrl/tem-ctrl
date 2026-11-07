@@ -12,8 +12,9 @@
 <div align="center">
     <!-- Profile views count -->
   <a href="https://komarev.com/ghpvc/?username=tem-ctrl" />
-  <a href="mailto:gilbertemgoua@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <!-- Email -->
+  <a href="https://linkedin.com/in/temgoua" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/temgoua" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -42,7 +43,7 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tem-ctrl&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Temgoua's GitHub Stats" />
+  <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=tem-ctrl&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Temgoua's GitHub Stats" /> -->
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tem-ctrl&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Temgoua's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tem-ctrl&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Temgoua's Most Used Languages" />
 </div>
